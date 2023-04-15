@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+double defaultMargin = 30;
+Color subtitleColor = Color(0xff504F5E);
+Color primaryColor = Color(0xff6C5ECF);
+Color secondaryColor = Color(0xff38ABBE);
+Color alertColor = Color(0xffDE6363);
+Color priceColor = Color(0xff2C96F1);
+Color backgroundColor1 = Color(0xff1F1D2B);
+Color backgroundColor2 = Color(0xff2B2937);
+Color backgroundColor3 = Color(0xff242231);
+Color backgroundColor4 = Color(0xff252836);
+Color backgroundColor5 = Color(0xff2B2844);
+Color backgroundColor6 = Color(0xffECEDFF);
+Color primaryTextColor = Color(0xffF1F0F2);
+Color secondaryTextColor = Color(0xff999999);
+Color trasparentColor = Colors.transparent;
+Color blackColor = Color(0xff2E2E2E);
+
+TextStyle primaryTextStyle = GoogleFonts.poppins(color: primaryTextColor);
+TextStyle primaryTextStyle1 = GoogleFonts.poppins(color: primaryTextColor);
+TextStyle subtitleTextStyle = GoogleFonts.poppins(color: subtitleColor);
+TextStyle priceTextStyle = GoogleFonts.poppins(color: priceColor);
+TextStyle alertTextStyle = GoogleFonts.poppins(color: alertColor);
+TextStyle secondaryTextStyle = GoogleFonts.poppins(color: secondaryTextColor);
+TextStyle purpuleTextStyle = GoogleFonts.poppins(color: backgroundColor5);
+TextStyle blackTextStyle = GoogleFonts.poppins(color: blackColor);
+FontWeight light = FontWeight.w300;
+FontWeight leguler = FontWeight.w400;
+FontWeight medium = FontWeight.w500;
+FontWeight semiBold = FontWeight.w600;
+FontWeight bolt = FontWeight.w700;
