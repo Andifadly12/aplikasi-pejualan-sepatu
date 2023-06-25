@@ -1,16 +1,13 @@
 # shamo
 
-A new Flutter project.
+aplikasi penjualan sepatu yang di buat enggunakan aplikasi flutter menliki fiture fiture sebagai berikut:
+. splas screen 
+. login
+. tampilan home menampilkan produk produk 
+. transaksi
+. chat 
 
-## Getting Startedcweew
+## priview
 
-This project is a starting point for a Flutter application.
+<img width="527" alt="image" src="https://github.com/Andifadly12/aplikasi-pejualan-sepatu/assets/57305450/f6d774c2-55ce-4bda-ab0e-2aba799bc5b3">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
